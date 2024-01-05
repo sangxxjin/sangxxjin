@@ -1,6 +1,6 @@
 <a href="https://velog.io/@sangxxjin/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/sangxxjin/" target="_blank"><img src="https://img.shields.io/badge/sangxxjin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
+<a href="mailto:sj_0368@naver.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sj_0368@naver.com"/></a>
 <!--
 **sangxxjin/sangxxjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
