@@ -1,5 +1,5 @@
 
-
+<!--
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
--->
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -33,6 +32,10 @@
 <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
+
+-->
+
+
 
 
 <h3 align="center"> 📫 Contact </h3>
@@ -64,3 +67,4 @@ Here are some ideas to get you started:
 [![sangxxjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangxxjin)](https://github.com/sangxxjin/github-readme-stats)
 
 -->
+
