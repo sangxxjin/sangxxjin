@@ -26,11 +26,21 @@ jobs:
           MYSQL_COUNT=$(find algorithm -type f -name "*.sql" | wc -l)  # MySQL 파일 개수 세기
           echo "JAVA_PROBLEMS=${JAVA_COUNT}" >> $GITHUB_ENV  # 환경 변수에 Java 문제 개수 저장
           echo "MYSQL_PROBLEMS=${MYSQL_COUNT}" >> $GITHUB_ENV  # 환경 변수에 MySQL 문제 개수 저장
+          echo "Found Java Problems: ${JAVA_COUNT}"
+          echo "Found MySQL Problems: ${MYSQL_COUNT}"
+
+      - name: Debug - Check current README.md content
+        run: |
+          echo "Current README.md contents before update:"
+          cat README.md
+          
 
       - name: Update README.md
         run: |
           sed -i "s/💡 Java 문제 풀이 수: .*/💡 Java 문제 풀이 수: $JAVA_PROBLEMS/" README.md  # README에서 Java 문제 개수 업데이트
           sed -i "s/💡 MySQL 문제 풀이 수: .*/💡 MySQL 문제 풀이 수: $MYSQL_PROBLEMS/" README.md  # README에서 MySQL 문제 개수 업데이트
+          echo "Updated README.md contents:"
+          cat README.md
 
       - name: Commit and Push if Changed
         run: |
