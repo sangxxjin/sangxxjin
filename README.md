@@ -36,18 +36,6 @@
 -->
 
 
-<div align="center">  
-  <h3>🏆 알고리즘 문제 풀이 현황</h3>  
-💡 Java 문제 풀이 수: 0
-  <br>  
-💡 MySQL 문제 풀이 수: 0
-</div>
-<br>  
-
-
-
-
-
 <h3 align="center"> 📫 Contact </h3>
 <div align="center">
 <a href="https://velog.io/@sangxxjin/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
